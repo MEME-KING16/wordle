@@ -5756,5 +5756,5 @@ export const WORDS = [
     'rumba',
     'biffy',
     'pupal',
-    'abc',
+    'abcde',
   ]
